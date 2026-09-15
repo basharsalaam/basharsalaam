@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> My name is Salam Bashar
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> My name is Abdul-Salam Bashar
 
 I am a Full-Stack Software Engineer, with 3+ years of experience designing and shipping production-grade web applications for international clients. I build scalable APIs, data-intensive platforms, and blockchain-integrated frontends. I combine deep frontend expertise with strong backend fundamentals and am actively learning Anchor and Rust for on-chain development.
 
